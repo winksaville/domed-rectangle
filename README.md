@@ -1,5 +1,8 @@
 # Domed rectangle
 
+ATM, the Cargo.toml file assumes csgrs is located at ../csgrs.
+I did this to test is_manifold from csgrs.
+
 Create a 3D model of a rectangle with a dome on top
 this is using CSG::circle_with_flat.
 
